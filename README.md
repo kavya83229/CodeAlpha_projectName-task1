@@ -1,4 +1,5 @@
 # CodeAlpha_projectName-task1
+social media platform
 1.project setup
 django-admin startproject socialproject
 cd socialproject
